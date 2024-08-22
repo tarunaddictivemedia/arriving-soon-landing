@@ -64,7 +64,7 @@ ul.slick-dots {
 
 .mainslider .sliderslide .slideinnr .slidecontent {
     width: 100%;
-    max-width: 42.5rem;
+    max-width: 52.5rem;
     height: 100%;
     background: rgba(0,0,0,0.7);
     padding: 2.813rem 6.875rem 2.813rem 1.875rem;
@@ -87,12 +87,13 @@ h2 {
 
 h6 {
     font-weight: 500;
-    font-size: 2.188rem;
+    font-size: 3rem;
     text-align: left;
     letter-spacing: 1.24px;
     line-height: 1.2;
     color: #fff;
-    margin-bottom: 2.2rem;
+    margin-bottom: 3rem;
+    margin-top: 1.5rem;
 }
 
 .slidecontent p {
