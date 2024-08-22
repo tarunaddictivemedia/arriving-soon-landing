@@ -182,7 +182,7 @@ ul.slick-dots li.slick-active button {
 /*Responsive*/
 @media(max-width: 1600px) {
     html {
-        font-size: 56%;
+        font-size: 64%;
     }
 }
 @media(max-width: 500px) {
