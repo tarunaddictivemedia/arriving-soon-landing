@@ -178,7 +178,12 @@ ul.slick-dots li {
 ul.slick-dots li.slick-active button {
     width: 100% !important;
 }
-
+.newletter button:hover {
+    background: #8d5f11;
+}
+.newletter button {
+    cursor: pointer;
+}
 /*Responsive*/
 @media(max-width: 1600px) {
     html {
